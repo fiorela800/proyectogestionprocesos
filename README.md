@@ -22,7 +22,7 @@ int main() {
         cout << "3. Reporte 2: Productos de categorÃ­a B o C\n";
         cout << "4. Reporte 3: Productos de categorÃ­a C con precio venta > 100\n";
         cout << "0. Salir\n";
-        cout << "Seleccione una opciÃ³n: ";
+        cout << "Seleccione una opcion: ";
         cin >> opcion;
 
         switch (opcion) {
