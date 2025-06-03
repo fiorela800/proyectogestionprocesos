@@ -5,6 +5,7 @@ using namespace std;
 int main() {
     const int MAX = 100;
 gnfjnujniiiiiic
+hgttret4e4e45
     // Arreglos para los datos
     string nombre[MAX];
     float precioCompra[MAX], ganancia[MAX], precioVenta[MAX];
