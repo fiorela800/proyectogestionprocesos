@@ -48,7 +48,7 @@ int main() {
                         cout << "CategorÃ­a (A/B/C): ";
                         cin >> categoria[i];
                         categoria[i] = toupper(categoria[i]);
-                    } while (categoria[i] != 'A' && categoria[i] != 'B' && categoria[i] != 'C');
+                    } while (categoria[i] != 'A' && categoria[i] != 'B' && categoriac[i] != 'C');
 
                     float porcentaje = 0;
                     if (categoria[i] == 'A') porcentaje = 0.15;
